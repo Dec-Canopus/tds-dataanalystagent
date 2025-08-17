@@ -1,0 +1,5 @@
+## TDS DATA ANALYST PROJECT
+
+### MIT LICENSED
+
+### AVAIALBLE ENP POINTS:  /api - POST    /health - GET
