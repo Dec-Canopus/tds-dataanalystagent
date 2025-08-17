@@ -1,7 +1,7 @@
 ## TDS DATA ANALYST PROJECT
 
-### ROLL NUMBER: 21f3001973
+**ROLL NUMBER**: 21f3001973, EMAIL: 21f3001973@ds.study.iitm.ac.in
 
-### MIT LICENSED
+**MIT LICENSED**
 
-### AVAIALBLE ENP POINTS:  /api - POST    /health - GET
+#### AVAIALBLE ENP POINTS:  */api* - POST    */health* - GET
