@@ -22,6 +22,41 @@ SMART SQL APPROACH:
 ❌ BAD: Download 10,000 records then filter in Python
 ✅ GOOD: Write SQL that returns exactly the answer you need
 
+CRITICAL ONLY USE THESE PACKAGES NO OTHERS:
+beautifulsoup4
+duckdb
+fastapi
+html5lib
+httpx
+lxml
+matplotlib
+networkx
+numpy
+pandas
+seaborn
+playwright
+playwright-stealth
+python-dotenv
+python-multipart
+requests
+tabula-py
+uvicorn
+scipy
+pdfplumber
+selenium
+webdriver-manager
+chromedriver-autoinstaller
+openpyxl
+xlrd
+xlsxwriter
+scikit-learn
+chardet
+python-dateutil
+pytz
+urllib3
+fake-useragent
+
+
 TEMPLATE STRUCTURE:
 ```python
 import pandas as pd
@@ -136,4 +171,3 @@ REQUIRED PATTERNS:
 REMEMBER: The database is your calculator - use it to compute the answer, don't just fetch raw data!
 REMEMBER: When creating code and using any library always make sure the keyword you use exist or not example: matplotlib.pyplot.savefig() dont have a keyword quality for WEBP format 
 REMEMBER: When writing SQL queries, always make take precautions for special columns like date time to reduce error chance aim for precision and efficiency.
-
